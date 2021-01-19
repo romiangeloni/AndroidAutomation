@@ -1,0 +1,2 @@
+# zinio
+mobile automation
